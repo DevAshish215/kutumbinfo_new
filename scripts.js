@@ -162,7 +162,7 @@ document.querySelectorAll(".navbar .dropdown > a").forEach((dropdownLink) => {
 
 //Navbar Links
 function handleWebDevelopmentClick() {
-    window.location.href = "Pages/web_dev.html";
+    window.location.href = "/kutumbinfo_new/Pages/web_dev.html";
 }
 
 function handleMobileAppDevClick() {
