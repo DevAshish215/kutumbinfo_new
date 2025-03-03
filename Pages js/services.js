@@ -2,7 +2,7 @@
 // Fetch and Insert Navbar
 // ============================
 document.addEventListener("DOMContentLoaded", () => {
-    fetch("/kutumbinfo_new/navbar.html") // Corrected Path
+    fetch("../navbar.html") // Corrected Path
         .then(res => res.text())
         .then(data => document.getElementById("navbar-placeholder").innerHTML = data)
         .catch(err => console.error("Error loading navbar:", err));
