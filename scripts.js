@@ -162,26 +162,26 @@ document.querySelectorAll(".navbar .dropdown > a").forEach((dropdownLink) => {
 
 //Navbar Links
 function handleWebDevelopmentClick() {
-    window.location.href = "../kutumbinfo_new/Pages/web_dev.html";
+    window.location.href = "/kutumbinfo_new/Pages/web_dev.html";
 }
 
 function handleMobileAppDevClick() {
-    window.location.href = "../Pages/mob_app.html";
+    window.location.href = "/kutumbinfo_new/Pages/mob_app.html";
 }
 
 function handleCustomSoftDevClick() {
-    window.location.href = "../Pages/custom_soft.html";
+    window.location.href = "/kutumbinfo_new/Pages/custom_soft.html";
 }
 
 function handleUIUXDesignClick() {
-    window.location.href = "../Pages/ui_ux_design.html";
+    window.location.href = "/kutumbinfo_new/Pages/ui_ux_design.html";
 }
 
 function handleAPIdevClick() {
-    window.location.href = "../Pages/api_dev.html";
+    window.location.href = "/kutumbinfo_new/Pages/api_dev.html";
 }
 
 function handleMaintainanceSupportClick() {
-    window.location.href = "../Pages/maintain_support.html";
+    window.location.href = "/kutumbinfo_new/Pages/maintain_support.html";
 }
 
